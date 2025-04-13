@@ -64,11 +64,11 @@ npm install
 ▶️ Run the app
 npm start
 The app will open on http://localhost:3000/.
+<br/>
 ✅ Requirements
+
 Node.js
-
 npm or yarn
-
 React environment set up
 
 ### Set Up Instructions
@@ -87,13 +87,9 @@ The app must have the following functionalities
 
 - Initially, values in the inputs elements should be empty and the selected value in the select element should be the first item in the given fontSizesOptionsList
 - When non-empty values are provided for **Image Url**, **Top Text**, **Bottom Text**, and **Font Size** and the **Generate** button is clicked
-  - The Image URL that has been provided should be applied as a background-image for the generated meme
-  - The given Top and Bottom text values should be at the top and bottom of the generated meme
-  - The selected font size value should be applied for both top and bottom text of the generated meme
-
-
-
-
+- The Image URL that has been provided should be applied as a background-image for the generated meme
+- The given Top and Bottom text values should be at the top and bottom of the generated meme
+- The selected font size value should be applied for both top and bottom text of the generated meme
 
 <summary>Implementation Files</summary>
 <br/>
@@ -104,10 +100,7 @@ Use these files to complete the implementation:
 - `src/components/MemeGenerator/index.js`
 - `src/components/MemeGenerator/styledComponents.js`
 
-
-
 ### Important Note
-
 
 <summary>Click to view</summary>
 
@@ -126,9 +119,6 @@ Use these files to complete the implementation:
 
 - [https://assets.ccbp.in/frontend/react-js/nature-img.png](https://assets.ccbp.in/frontend/react-js/nature-img.png)
 
-
-
-
 <summary>Colors</summary>
 
 <br/>
@@ -141,17 +131,16 @@ Use these files to complete the implementation:
 <div style="background-color: #1e293b; width: 150px; padding: 10px; color: black">Hex: #1e293b</div>
 <div style="background-color: #0b69ff; width: 150px; padding: 10px; color: black">Hex: #0b69ff</div>
 
-
-
-
 <summary>Font-families</summary>
 
 - Open Sans
 
 🧾 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 🙌 Acknowledgements
+
 UI Inspired by NxtWave's assignment design
 
 Image sourced from Cloudinary and CCBP assets
