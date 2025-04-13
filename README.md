@@ -20,12 +20,12 @@ In this project, let's build a **Meme Generator** app by applying the concepts w
 
 ### Set Up Instructions
 
-<details>
+
 
 
 - Download dependencies by running `npm install`
 - Start up the app using `npm start`
-</details>
+
 
 ### Completion Instructions
 
